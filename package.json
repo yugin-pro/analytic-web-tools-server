@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "apps-store-server",
+  "version": "1.0.0",
+  "description": "njs server for web  apps",
+  "main": "apps-store-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Yugin D.",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
